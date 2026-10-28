@@ -27,7 +27,7 @@ export function generateAvatarUrl(name: string): string {
         x="50%" 
         y="50%" 
         fill="white" 
-        font-family="system-ui, -apple-system, sans-serif" 
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" 
         font-size="45" 
         font-weight="500"
         text-anchor="middle"

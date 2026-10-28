@@ -101,7 +101,7 @@ export function MessageView({ emailId, messageId, messageType = 'received' }: Me
                   margin: 0;
                   padding: 0;
                   min-height: 100%;
-                  font-family: system-ui, -apple-system, sans-serif;
+                  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
                   color: ${theme === 'dark' ? '#fff' : '#000'};
                   background: ${theme === 'dark' ? '#1a1a1a' : '#fff'};
                 }
